@@ -42,7 +42,7 @@ Hi
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
  -->
  <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaanmittal-6176&show_icons=true&locale=en&layout=compact" alt="ishaanmittal-6176" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ishaanmittal-6176&show_icons=true&locale=en&layout=compact" alt="ishaanmittal-6176" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaanmittal-6176&show_icons=true&locale=en" alt="ishaanmittal-6176" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishaanmittal-6176&show_icons=true&locale=en" alt="ishaanmittal-6176" /></p>
 
