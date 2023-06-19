@@ -3,18 +3,11 @@ Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, 
   I'm Ishaan Mittal</h1>
   
-  
-<div>
-  <img src="https://komarev.com/ghpvc/?username=ishaanmittal-6176&style=flat-square&color=blue" alt="ishaanmittal-6176"/>
-</div>
+<br />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<br>
+ ## 👨🏻‍💻 &nbsp;About Me
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittal-ishaan" alt="mittal-ishaan" /></a> </p>
-
+- 🎓 &nbsp; Studying Electrical Engineering at Indian Institute of Technology, Indore.
 
 <br />
 <h2> 🤝🏻 &nbsp;Connect with me:</h2>
@@ -44,8 +37,6 @@ Hi
 			/>
 		</a>
 </p>
-
-<br />
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <br/>
 <div>
