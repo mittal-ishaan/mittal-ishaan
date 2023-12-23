@@ -5,7 +5,11 @@ Hi
   
 <br />
 
+ ## 👨🏻‍💻 &nbsp;About Me
 
+- 🎓 &nbsp; Studying Electrical Engineering at Indian Institute of Technology, Indore.
+
+<br />
 
 <h2> 🤝🏻 &nbsp;Connect with me:</h2>
 <br/>
