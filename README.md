@@ -29,14 +29,6 @@ Hi
 				width="40"
 			/>
 		</a>&emsp;
-		<a style="text-decoration: none" href="https://www.instagram.com/_ishaan_mittal/" target="_blank">
-			<img
-				src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
-				alt="_ishaan_mittal"
-				height="40"
-				width="40"
-			/>
-		</a>
 </p>
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <br/>
@@ -89,7 +81,7 @@ Hi
 	/>
   <img
        height="180em"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=mittal-ishaan&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=mittal-ishaan&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=MAPF-Multi-layered-Agents&hide=css,html"
 		alt="mittal-ishaan"
 	/>
 	<img
