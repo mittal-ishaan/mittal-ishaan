@@ -68,7 +68,7 @@ Hi
 <h2>
    <img
        height="30em"
-		src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
+		src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
 		alt="github"
 	/>  &nbsp;GitHub
   </h2>
