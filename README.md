@@ -5,12 +5,6 @@ Hi
   
 <br />
 
- ## 👨🏻‍💻 &nbsp;About Me
-
-- 🎓 &nbsp; Studying Electrical Engineering at Indian Institute of Technology, Indore.
-- 💼 &nbsp; Served as Head of Gymkhana Web Team, IIT Indore
-<br />
-
 <h2> 🤝🏻 &nbsp;Connect with me:</h2>
 <br/>
 <p align="left">
